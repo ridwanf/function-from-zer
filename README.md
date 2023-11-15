@@ -1,2 +1,2 @@
-# function-from-zer
+# function-from-zero
 a repo to learn function
